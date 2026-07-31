@@ -52,11 +52,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DracoRaiden&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoRaiden&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajadaud-code&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajadaud-code&theme=tokyonight" height="170"/>
 </p>
 
-*(Note: Remember to replace `DracoRaiden` in the GitHub Stats links above with your actual GitHub username to show your own statistics!)*
+
 
 ---
 
