@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Daud Israr 👋</h1>
 <p align="center">
-  <b>AI & LLM Frameworks Engineer | Backend Developer | Innovator</b><br>
+  <b>AI Engineer | Backend Developer | Innovator</b><br>
   Software Professional
 </p>
 
